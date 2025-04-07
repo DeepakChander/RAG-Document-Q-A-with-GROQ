@@ -29,6 +29,3 @@ A powerful **Retrieval-Augmented Generation (RAG)** application built using **La
 - [OpenAI Embeddings (Optional)](https://platform.openai.com/docs/guides/embeddings)
 
 ---
-
-## 📂 Project Structure
-
